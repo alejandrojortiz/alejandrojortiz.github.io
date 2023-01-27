@@ -6,10 +6,10 @@ import {
   AiOutlineClose,
 } from "react-icons/ai";
 import Image from "next/image";
-import WeightCalcImg from "/public/weight-calc.png";
-import LogionImg from "/public/logion.png";
-import BarLoadImg from "/public/barload.png";
-import MeImg from "/public/avatar.png";
+import WeightCalcImg from "/images/weight-calc.png";
+import LogionImg from "/images/logion.png";
+import BarLoadImg from "/images/barload.png";
+import MeImg from "/images/avatar.png";
 import { NavBar } from "/pages/components/navBar";
 import { useState } from "react";
 
