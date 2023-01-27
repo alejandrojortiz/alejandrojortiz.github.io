@@ -10,6 +10,9 @@ if (isGithubActions) {
   const repo = process.env.GITHUB_REPOSITORY.replace(/.*?\//, '');
   nextConfig =  {
     reactStrictMode: true,
+    images: {
+      unoptimized: true
+    }
   }
   
 }
