@@ -10,7 +10,7 @@ import WeightCalcImg from "/images/weight-calc.png";
 import LogionImg from "/images/logion.png";
 import BarLoadImg from "/images/barload.png";
 import MeImg from "/images/avatar.png";
-import { NavBar } from "/pages/components/navBar";
+import { NavBar } from "/components/navBar";
 import { useState } from "react";
 
 export default function Home() {
