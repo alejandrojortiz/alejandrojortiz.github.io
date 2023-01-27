@@ -18,6 +18,7 @@ if (isGithubActions) {
       loader: 'imgix',
       path: 'alejandrojortiz.imgix.net',
     },
+    matcher: '/'
   }
   
 }
