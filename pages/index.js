@@ -115,7 +115,7 @@ export default function Home() {
                       alt="logion-photo"
                       className="mx-auto mb-1"
                     />
-                    <a className="text-blue-600" href="https://logion-web-app.herokuapp.com/">LOGION Website</a>
+                    <a target={"_blank"} rel={"noreferrer"} className="text-blue-600" href="https://logion-web-app.herokuapp.com/">LOGION Website</a>
                     <p className="text-gray-600 mb-1">
                       A website that provides a clean, intuitive interface to
                       interact with LOGION, an NLP model trained on Ancient
@@ -130,7 +130,7 @@ export default function Home() {
                       alt="weightcalc-photo"
                       className="mx-auto mb-1"
                     />
-                    <a className="text-blue-600" href="https://alejandrojortiz.github.io/weightcalc/">WeightCalc</a>
+                    <a target={"_blank"} rel={"noreferrer"} className="text-blue-600" href="https://alejandrojortiz.github.io/weightcalc/">WeightCalc</a>
                     <p className="text-gray-600 mb-1">
                       A fully client-side webapp that calculates the optimal way
                       to load a barbell with a limited set of weights and
@@ -144,7 +144,7 @@ export default function Home() {
                       alt="barload-photo"
                       className="mx-auto mb-1"
                     />
-                    <a className="text-blue-600" href="https://alejandrojortiz.github.io/barload/">BarLoad</a>
+                    <a className="text-blue-600" href="https://alejandrojortiz.github.io/barload/" target={"_blank"} rel={"noreferrer"}>BarLoad</a>
                     <p className="text-gray-600 mb-1">
                       The precursor to Weight Calc. Provides a calculator-like
                       UI to add and remove plates from a barbell and find the

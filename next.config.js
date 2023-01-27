@@ -10,10 +10,6 @@ if (isGithubActions) {
   const repo = process.env.GITHUB_REPOSITORY.replace(/.*?\//, '');
   nextConfig =  {
     reactStrictMode: true,
-    images: {
-      loader: 'imgix',
-      path: 'alejandrojortiz.imgix.net',
-    },
   }
   
 }
