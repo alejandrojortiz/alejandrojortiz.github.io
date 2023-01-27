@@ -8,8 +8,7 @@ const isGithubActions = process.env.GITHUB_ACTIONS || false
 
 if (isGithubActions) {
   const repo = process.env.GITHUB_REPOSITORY.replace(/.*?\//, '');
-  let assetPrefix = '';
-  assetPrefix = `/${repo}/`;
+  let assetPrefix = `/${repo}/`;
   nextConfig =  {
     reactStrictMode: true,
     assetPrefix: assetPrefix,
