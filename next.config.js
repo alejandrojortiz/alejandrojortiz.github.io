@@ -8,17 +8,12 @@ const isGithubActions = process.env.GITHUB_ACTIONS || false
 
 if (isGithubActions) {
   const repo = process.env.GITHUB_REPOSITORY.replace(/.*?\//, '');
-  let assetPrefix = `/${repo}/`;
-  let basePath = `/${repo}`;
   nextConfig =  {
     reactStrictMode: true,
-    assetPrefix: assetPrefix,
-    basePath: basePath,
     images: {
       loader: 'imgix',
       path: 'alejandrojortiz.imgix.net',
     },
-    matcher: '/'
   }
   
 }
