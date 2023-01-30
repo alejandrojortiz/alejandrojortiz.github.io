@@ -136,7 +136,7 @@ export default function Home() {
                       to load a barbell with a limited set of weights and
                       displays the result in 3D.
                     </p>
-                    <p className="text-gray-600">React, ThreeJS, Dexie.js</p>
+                    <p className="text-gray-600">React, Next.js, TailwindCSS, Dexie.js</p>
                   </div>
                   <div className="text-center  pb-1  md:shadow-lg md:rounded-xl md:my-5">
                     <Image
@@ -151,7 +151,7 @@ export default function Home() {
                       total weight loaded.
                     </p>
                     <p className="text-gray-600">
-                      React, React-Three-Drei, React-Three-Fiber
+                      React, React-Three
                     </p>
                   </div>
                 </div>
