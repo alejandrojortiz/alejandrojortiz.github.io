@@ -97,7 +97,7 @@ export default function Home() {
                   (Class of 2024), majoring in Computer Science with a minor in
                   Statistics and Machine Learning. I&apos;ve taken courses in a
                   wide breadth of areas, including Algorithms, System Design,
-                  Computer Networks, and Blockchains. Through my coursework and
+                  Computer Networks, Decentralized Finance, and Blockchains. Through my coursework and
                   personal projects, I&apos;ve built knowledge of both Frontend
                   and Backend development. I&apos;m comfortable writing code in
                   Python, Go, Javascript (React), Java, and C. I&apos;m
