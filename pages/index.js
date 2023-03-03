@@ -99,8 +99,8 @@ export default function Home() {
                   wide breadth of areas, including Algorithms, System Design,
                   Computer Networks, Decentralized Finance, and Blockchains. Through my coursework and
                   personal projects, I&apos;ve built knowledge of both Frontend
-                  and Backend development. I&apos;m comfortable writing code in
-                  Python, Go, Javascript (React), Java, and C. I&apos;m
+                  and Backend development and I&apos;'ve become comfortable writing code in
+                  Python, Go, Javascript (React), Solidity, Java, and C. I&apos;m
                   passionate about building clean, effective products for people
                   to use.
                 </div>
