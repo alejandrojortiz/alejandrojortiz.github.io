@@ -118,9 +118,9 @@ export default function Home() {
                     <a target={"_blank"} rel={"noreferrer"} className="text-blue-600" href="https://logion-web-app.herokuapp.com/">LOGION Website</a>
                     <p className="text-gray-600 mb-1">
                       A website that provides a clean, intuitive interface to
-                      interact with LOGION, an NLP model trained on Ancient
-                      Greek text developed within the Princeton Classics
-                      Department.
+                      interact with LOGION, an NLP model developed within the 
+                      Princeton Classics Department and trained on Ancient
+                      Greek text.
                     </p>
                     <p className="text-gray-600">jQuery, Flask, GCP</p>
                   </div>
